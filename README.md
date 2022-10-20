@@ -6,7 +6,7 @@
 ![](https://static01.imgkr.com/temp/5ca8a54f7d6544b6a2c740d5f559e5c4.jpg)
 
 
-
+1st not auto sync, test 2nd time!
 Just for test mirror ok?!
 Gokins一款由Go语言和Vue编写的款轻量级、能够持续集成和持续交付的工具.
 
